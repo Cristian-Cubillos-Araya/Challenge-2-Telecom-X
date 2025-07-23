@@ -1,3 +1,20 @@
+# Requisitos
+* Python 3.12.7
+* JupyterNotebook/ GoogleCollab
+
+## Bibliotecas Necesarias
+```
+pip install pandas
+pip install numpy
+pip install scikit-learn
+pip install imbalanced-learn
+pip install xgboost
+pip install matplotlib
+pip install seaborn
+pip install jupyter
+pip install plotly
+```
+
 # Informe: Análisis de Cancelación de Clientes
 
 ## 1. Modelos Evaluados 
